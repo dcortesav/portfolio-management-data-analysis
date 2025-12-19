@@ -1,0 +1,24 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Data files (to avoid committing sensitive financial data)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+
+# Environment
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db

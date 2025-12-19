@@ -1,0 +1,1 @@
+This repository contains a Jupyter notebook in which financial data is analyzed using portfolio management theory and data science strategies.
