@@ -26,12 +26,3 @@ This repository showcases how data science tools are used for portfolio manageme
 ```bash
 pip install -r requirements.txt
 ```
-
-## Usage
-
-```python
-import pandas as pd
-import numpy as np
-from scipy.optimize import minimize
-import seaborn as sns
-```
